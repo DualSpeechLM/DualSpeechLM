@@ -45,6 +45,7 @@ French-to-English (Fr–En):
 | Le groupe des prosimiens est considéré comme un grade par les systématiciens évolutionnistes. | <audio src="t2st/fr_en/ours/common_voice_fr_19736560.mp3.wav" controls preload></audio>  | <audio src="t2st/fr_en/gt/common_voice_fr_19736560.mp3.wav" controls preload></audio>  | 
 
 Spanishto-English (Es–En):
+
 | <center> Source Text </center> | <center> DualSpeechLM-USToken(Ours) </center>| <center> Ground Truth </center>|
 | ----------------------------------------------------- | ------------------------- | ------------------------- |
 | El idioma oficial del país toma como referencia los dialectos de Funafuti-Vaitupu. | <audio src="t2st/es_en/ours/common_voice_es_19608306.mp3.wav" controls preload></audio>  | <audio src="t2st/es_en/gt/common_voice_es_19608306.mp3.wav" controls preload></audio>  | 
