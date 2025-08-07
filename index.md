@@ -53,6 +53,7 @@ Spanishto-English (Es–En):
 
 
 ## Speech Conversation (SC)
+In the SC task, the DualSpeechLLM is required to generate speech responses to speech prompts that include speech content and the corresponding speech question.
 
 | <center> Speech Content </center>| <center> Question </center> | <center> DualSpeechLM-USToken(Ours) </center>| <center> Reference </center>|
 | ----------------------------------------------------- | ------------------------- | ------------------------- | ------------------------------ | 
